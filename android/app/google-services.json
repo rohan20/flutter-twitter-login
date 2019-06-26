@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "334454031123",
+    "firebase_url": "https://flutter-twitter-login-sample.firebaseio.com",
+    "project_id": "flutter-twitter-login-sample",
+    "storage_bucket": "flutter-twitter-login-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334454031123:android:6cc8da6ce6bcce0d",
+        "android_client_info": {
+          "package_name": "com.rohantaneja.twitterloginsample.twitter_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334454031123-77raa7kivf58g13mk6jj1s0pig742ocj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohantaneja.twitterloginsample.twitter_login_sample",
+            "certificate_hash": "85ef459ff41c1c289b7fa405281854cc705cf9cc"
+          }
+        },
+        {
+          "client_id": "334454031123-89g5hrsstr2ufls4v1ub04e70r12kb2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiisd55SwpAHsrgYbwU4sr01JvfuydbqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334454031123-89g5hrsstr2ufls4v1ub04e70r12kb2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
