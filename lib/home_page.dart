@@ -33,8 +33,8 @@ class _HomePageState extends State<HomePage> {
   }
 
   static final TwitterLogin twitterLogin = new TwitterLogin(
-    consumerKey: 'kkOvaF1Mowy4JTvCxKTV5O1WF',
-    consumerSecret: 'ZECGsI6UUDBEUVGkJe4S5vd0FGqGxC3wMJCgsXgPRfjSwRFnyH',
+    consumerKey: '94dfxel253BwSWHP8i3of2Fr8',
+    consumerSecret: '9H6PAAnF3P2YjK1WqQyZfW2W7kqkdOXGK4RgWpD0RT55t72Ygk',
   );
 
   void _login() async {
