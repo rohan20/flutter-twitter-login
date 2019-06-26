@@ -18,11 +18,11 @@ class _HomePageState extends State<HomePage> {
           children: <Widget>[
             RaisedButton(
               child: Text("Login"),
-              onPressed: () {},
+              onPressed: _login,
             ),
             RaisedButton(
               child: Text("Logout"),
-              onPressed: () {},
+              onPressed: _logout,
             ),
             SizedBox(height: 32.0),
             Text(message),
