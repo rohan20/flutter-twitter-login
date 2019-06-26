@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>334454031123-kgu5v9tj8s9hdfnh310glv37qe4f1h1p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.334454031123-kgu5v9tj8s9hdfnh310glv37qe4f1h1p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>334454031123-77raa7kivf58g13mk6jj1s0pig742ocj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyANJuBCTVvfMTCGR8DTk14Iaivqx51Do1U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>334454031123</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rohantaneja.twitterloginsample.twitterLoginSample</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-twitter-login-sample</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-twitter-login-sample.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:334454031123:ios:4552b9cc6aa92bdc</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-twitter-login-sample.firebaseio.com</string>
+</dict>
+</plist>
